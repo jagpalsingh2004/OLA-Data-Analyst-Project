@@ -125,21 +125,26 @@ FROM bookings
 WHERE Incomplete_Rides = 'Yes';
 ```
 
-### 3️⃣ Power BI Dashboards & Visualizations
-Power BI is used to create interactive dashboards for ride analytics. Some key visuals include:
-📈 Ride Volume Over Time – Trends in booking numbers
-📊 Booking Status Breakdown – Success vs. cancellations
-🚗 Top Vehicle Types by Distance – Which vehicles travel the most
-⭐ Customer & Driver Ratings – Average ratings per vehicle type
-💰 Revenue by Payment Method – UPI, cash, card, etc.
+### **📊 3️⃣ Power BI Dashboards & Visualizations**  
+Power BI is used to create **interactive dashboards** for ride analytics. Some key visuals include:  
 
-#🔹 Insights & Business Value
-This project is valuable for OLA’s business strategy, helping to:
-✔ Identify peak booking hours & locations
-✔ Reduce cancellations & incomplete rides
-✔ Improve customer & driver experience
-✔ Optimize pricing & revenue strategies
-✔ Make data-driven decisions to boost ride efficiency
+- 📈 **Ride Volume Over Time** → Trends in booking numbers  
+- 📊 **Booking Status Breakdown** → Success vs. cancellations  
+- 🚗 **Top Vehicle Types by Distance** → Which vehicles travel the most  
+- ⭐ **Customer & Driver Ratings** → Average ratings per vehicle type  
+- 💰 **Revenue by Payment Method** → UPI, cash, card, etc.  
+
+---
+
+### **🔹 Insights & Business Value**  
+This project is valuable for **OLA’s business strategy**, helping to:  
+
+✔ **Identify** peak booking hours & locations  
+✔ **Reduce** cancellations & incomplete rides  
+✔ **Improve** customer & driver experience  
+✔ **Optimize** pricing & revenue strategies  
+✔ **Make data-driven decisions** to boost ride efficiency 🚀  
+
 
 # 🔹 Segregation of the Views
 
@@ -195,4 +200,7 @@ This project is valuable for OLA’s business strategy, helping to:
 
 
 ## 🎯 Final Thoughts
-This is a real-world data analytics project perfect for practicing SQL, Power BI, and Excel skills. It helps in understanding ride-sharing trends, customer behavior, and operational efficiency in a structured way. 🚀
+**📌 Real-World Data Analytics Project**  
+✅ Perfect for practicing **SQL, Power BI, and Excel skills**  
+✅ Helps in understanding **ride-sharing trends, customer behavior & operational efficiency**  
+✅ Provides a **structured approach** to data analysis 🚀  
