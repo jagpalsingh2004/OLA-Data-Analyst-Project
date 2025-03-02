@@ -1,6 +1,8 @@
 # OLA-Data-Analyst-Project 
 Project Category: Advanced
 
+![OLA Logo](![Uploading Ola-Electric-looking-to-raise-1-billion.jpg…])
+
 ## Overview of the OLA Data Analyst Project 🚖📊
 This OLA Data Analyst Project is a data analytics case study that involves analyzing ride data for the city of Bengaluru over a period of one month. The project includes data generation, SQL queries, and Power BI visualizations to derive insights into ride performance, cancellations, revenue, and customer behavior.
 
