@@ -144,34 +144,34 @@ This project is valuable for OLA’s business strategy, helping to:
 # 🔹 Segregation of the Views
 
 ## 📌 Overall
-- 📈 **Ride Volume Over Time**
-- 🏆 **Booking Status Breakdown**
+- 📈 *Ride Volume Over Time*
+- 🏆 *Booking Status Breakdown*
 
 ## 🚗 Vehicle Type
-- 🚘 **Top 5 Vehicle Types by Ride Distance**
+- 🚘 *Top 5 Vehicle Types by Ride Distance*
 
 ## 💰 Revenue
-- 💳 **Revenue by Payment Method**
-- 👥 **Top 5 Customers by Total Booking Value**
-- 📊 **Ride Distance Distribution Per Day**
+- 💳 *Revenue by Payment Method**
+- 👥 *Top 5 Customers by Total Booking Value*
+- 📊 *Ride Distance Distribution Per Day*
 
 ## ❌ Cancellation
-- 🚦 **Cancelled Rides Reasons (Customer)**
-- 🛑 **Cancelled Rides Reasons (Drivers)**
+- 🚦 *Cancelled Rides Reasons (Customer)*
+- 🛑 *Cancelled Rides Reasons (Drivers)*
 
 ## ⭐ Ratings
-- 👨‍✈️ **Driver Ratings**
-- 🧑‍💼 **Customer Ratings**
+- 👨‍✈️ *Driver Ratings*
+- 🧑‍💼 *Customer Ratings*
 
 ---
 
-# 🔹 Solutions:
+🔹 Solutions:
 
-### 📈 Ride Volume Over Time  
-🟢 A **time-series chart** showing the number of rides per **day/week**, helping track ride demand trends.
+## 📈 Ride Volume Over Time  
+🟢 A *time-series chart** showing the number of rides per *day/week*, helping track ride demand trends.
 
-### 🏆 Booking Status Breakdown  
-🔵 A **pie or doughnut chart** displaying the proportion of different booking statuses:  
+## 🏆 Booking Status Breakdown  
+🔵 A *pie or doughnut chart** displaying the proportion of different booking statuses:  
 ✅ Success  
 🚫 Cancelled by Customer  
 ❌ Cancelled by Driver  
@@ -189,17 +189,17 @@ This project is valuable for OLA’s business strategy, helping to:
 📊 A **stacked bar chart** showing total revenue based on payment methods:  
 💵 Cash | 📲 UPI | 💳 Credit Card  
 
-### 👥 Top 5 Customers by Total Booking Value  
-🏅 A **leaderboard-style visual** listing the customers who spent the most on rides.
+## 👥 Top 5 Customers by Total Booking Value  
+🏅 A *leaderboard-style visual* listing the customers who spent the most on rides.
 
-### 📊 Ride Distance Distribution Per Day  
-📌 A **histogram or scatter plot** displaying the spread of ride distances across different dates.
+## 📊 Ride Distance Distribution Per Day  
+📌 A *histogram or scatter plot* displaying the spread of ride distances across different dates.
 
-### ⭐ Driver Rating Distribution  
-📊 A **box plot** showing the spread of driver ratings across different vehicle types.
+## ⭐ Driver Rating Distribution  
+📊 A *box plot* showing the spread of driver ratings across different vehicle types.
 
-### 🔍 Customer vs. Driver Ratings  
-📈 A **scatter plot** comparing customer and driver ratings for each completed ride, helping analyze **correlations** between ratings.
+## 🔍 Customer vs. Driver Ratings  
+📈 A *scatter plot* comparing customer and driver ratings for each completed ride, helping analyze **correlations** between ratings.
 ---
 
 ## 🎯 Final Thoughts
