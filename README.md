@@ -32,18 +32,18 @@ CREATE TABLE OLA (
 🔹 Key Aspects of the Project
 
 ### 1️⃣ Data Structure & Features
-The dataset is designed with 1,00,000 (1 lakh) ride records and contains the following columns:
+The dataset is designed with 1,00,000 (1 lakh) ride records and contains the following columns:<br>
 
-Booking details: Booking_ID, Booking_Status, Customer_ID, Vehicle_Type, Pickup_Location, Drop_Location
-Ride analytics: Avg VTAT (Vehicle Arrival Time), Avg CTAT (Customer Arrival Time), Ride Distance, Booking Value
-Cancellations & Incompleteness: Cancelled Rides by Customer, Cancelled Rides by Driver, Incomplete Rides, and reasons for them
-Ratings & Payments: Driver Ratings, Customer Rating, Payment Method
-Important conditions:
-<br>✅ 62% of rides must be successful
-✅ Customer cancellations ≤ 7%
-✅ Driver cancellations ≤ 18%
-✅ Incomplete rides ≤ 6%
-✅ More bookings on weekends & match days
+Booking details: Booking_ID, Booking_Status, Customer_ID, Vehicle_Type, Pickup_Location, Drop_Location<br>
+Ride analytics: Avg VTAT (Vehicle Arrival Time), Avg CTAT (Customer Arrival Time), Ride Distance, Booking Value<br>
+Cancellations & Incompleteness: Cancelled Rides by Customer, Cancelled Rides by Driver, Incomplete Rides, and reasons for them<br>
+Ratings & Payments: Driver Ratings, Customer Rating, Payment Method<br>
+Important conditions:<br>
+✅ 62% of rides must be successful<br>
+✅ Customer cancellations ≤ 7%<br>
+✅ Driver cancellations ≤ 18%<br>
+✅ Incomplete rides ≤ 6%<br>
+✅ More bookings on weekends & match days<br>
 ✅ Higher ride values on weekends
 
 ### 2️⃣ SQL Queries for Data Analysis
