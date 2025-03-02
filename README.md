@@ -39,7 +39,7 @@ Ride analytics: Avg VTAT (Vehicle Arrival Time), Avg CTAT (Customer Arrival Time
 Cancellations & Incompleteness: Cancelled Rides by Customer, Cancelled Rides by Driver, Incomplete Rides, and reasons for them
 Ratings & Payments: Driver Ratings, Customer Rating, Payment Method
 Important conditions:
-✅ 62% of rides must be successful
+<br>✅ 62% of rides must be successful
 ✅ Customer cancellations ≤ 7%
 ✅ Driver cancellations ≤ 18%
 ✅ Incomplete rides ≤ 6%
