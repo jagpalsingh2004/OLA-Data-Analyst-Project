@@ -143,64 +143,56 @@ This project is valuable for OLA’s business strategy, helping to:
 
 # 🔹 Segregation of the Views
 
-## 📌 Overall
-- 📈 *Ride Volume Over Time*
-- 🏆 *Booking Status Breakdown*
+**📌 Overall**
+- 📈 Ride Volume Over Time
+- 🏆 Booking Status Breakdown
 
-## 🚗 Vehicle Type
-- 🚘 *Top 5 Vehicle Types by Ride Distance*
+**🚗 Vehicle Type**
+- 🚘 Top 5 Vehicle Types by Ride Distance
 
-## 💰 Revenue
-- 💳 *Revenue by Payment Method**
-- 👥 *Top 5 Customers by Total Booking Value*
-- 📊 *Ride Distance Distribution Per Day*
+**💰 Revenue**
+- 💳 Revenue by Payment Method
+- 👥 Top 5 Customers by Total Booking Value
+- 📊 Ride Distance Distribution Per Day
 
-## ❌ Cancellation
-- 🚦 *Cancelled Rides Reasons (Customer)*
-- 🛑 *Cancelled Rides Reasons (Drivers)*
+**❌ Cancellation**
+- 🚦 Cancelled Rides Reasons (Customer)
+- 🛑 Cancelled Rides Reasons (Drivers)
 
-## ⭐ Ratings
-- 👨‍✈️ *Driver Ratings*
-- 🧑‍💼 *Customer Ratings*
+**⭐ Ratings**
+- 👨‍✈️ Driver Ratings
+- 🧑‍💼 Customer Ratings
 
 ---
 
-🔹 Solutions:
+## 🔹 Answers:
 
-## 📈 Ride Volume Over Time  
-🟢 A *time-series chart** showing the number of rides per *day/week*, helping track ride demand trends.
+**📈 Ride Volume Over Time**  
+➡ A time-series chart showing ride trends **per day/week**.
 
-## 🏆 Booking Status Breakdown  
-🔵 A *pie or doughnut chart** displaying the proportion of different booking statuses:  
-✅ Success  
-🚫 Cancelled by Customer  
-❌ Cancelled by Driver  
+**🏆 Booking Status Breakdown**  
+🔵 A pie/doughnut chart showing:  
+✅ Success | 🚫 Cancelled by Customer | ❌ Cancelled by Driver  
 
-### 🚘 Top 5 Vehicle Types by Ride Distance  
-📊 A **bar chart** ranking vehicle types based on **total distance traveled**.
+**🚘 Top 5 Vehicle Types by Ride Distance**  
+📊 A bar chart ranking vehicle types by **total distance traveled**.
 
-### ⭐ Average Customer Ratings by Vehicle Type  
-📏 A **column chart** displaying the **average customer ratings** for each vehicle type.
+**⭐ Average Customer Ratings by Vehicle Type**  
+📏 A column chart showing **average customer ratings** per vehicle type.
 
-### ❌ Cancelled Rides Reasons  
-📌 A **bar chart** highlighting the most common reasons for **ride cancellations** by customers and drivers.
+**❌ Cancelled Rides Reasons**  
+📌 A bar chart highlighting **top reasons for cancellations** by customers & drivers.
 
-### 💰 Revenue by Payment Method  
-📊 A **stacked bar chart** showing total revenue based on payment methods:  
+**💰 Revenue by Payment Method**  
+📊 A stacked bar chart showing revenue from:  
 💵 Cash | 📲 UPI | 💳 Credit Card  
 
-## 👥 Top 5 Customers by Total Booking Value  
-🏅 A *leaderboard-style visual* listing the customers who spent the most on rides.
+**👥 Top 5 Customers by Total Booking Value**  
+🏅 A leaderboard ranking customers by **total spending**.
 
-## 📊 Ride Distance Distribution Per Day  
-📌 A *histogram or scatter plot* displaying the spread of ride distances across different dates.
+**📊 Ride Distance Distribution Per Day**  
+📌 A histogram/scatter plot showing the **spread of ride distances** across dates
 
-## ⭐ Driver Rating Distribution  
-📊 A *box plot* showing the spread of driver ratings across different vehicle types.
-
-## 🔍 Customer vs. Driver Ratings  
-📈 A *scatter plot* comparing customer and driver ratings for each completed ride, helping analyze **correlations** between ratings.
----
 
 ## 🎯 Final Thoughts
 This is a real-world data analytics project perfect for practicing SQL, Power BI, and Excel skills. It helps in understanding ride-sharing trends, customer behavior, and operational efficiency in a structured way. 🚀
