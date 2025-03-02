@@ -29,7 +29,7 @@ CREATE TABLE OLA (
 );
 ```
 
-##🔹 Key Aspects of the Project
+🔹 Key Aspects of the Project
 
 ### 1️⃣ Data Structure & Features
 The dataset is designed with 1,00,000 (1 lakh) ride records and contains the following columns:
