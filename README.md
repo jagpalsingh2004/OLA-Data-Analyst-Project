@@ -96,6 +96,7 @@ WITH cte
 SELECT MAX(Driver_Ratings) AS max_rating, MIN(Driver_Ratings) AS min_rating 
 FROM bookings 
 WHERE Vehicle_Type = 'Prime Sedan';
+```
 
 -- 7. Retrieve all rides where payment was made using UPI
 ```sql
